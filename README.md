@@ -4,7 +4,9 @@
 - 📫 How to reach me: yusufs@cs.washington.edu
 
 Battleship Game: https://extremebattleship.azurewebsites.net/ - Only 1 player mode works right now
+
 Stats Galore Spotify API Website: http://statsgaloreapp.azurewebsites.net/
+
 Link to quick video demos of projects: https://drive.google.com/drive/folders/1KfWZPcjkLrKJy9YwMPEb2skQbXUOOxYJ?usp=sharing
 
 <!---
