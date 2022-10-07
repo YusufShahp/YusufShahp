@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YusufShahp
-- 👀 I’m interested in all sorts of programming but now I am especially focused on web programming.
+- 👀 I’m interested in all sorts of programming but now I am especially focused on web programming and learning new frameworks and skills through new experiences. 
 - 🌱 I’m currently learnining more about ADTs in my CSE 122 course at University of Washington and I am working on debugging the two player mode in my Battleship game.
 - 📫 How to reach me: yusufs@cs.washington.edu
 
