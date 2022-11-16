@@ -7,8 +7,6 @@ Battleship Game: https://extremebattleship.azurewebsites.net/ - Only 1 player mo
 
 Stats Galore Spotify API Website: http://statsgaloreapp.azurewebsites.net/
 
-Link to quick video demos of projects: https://drive.google.com/drive/folders/1KfWZPcjkLrKJy9YwMPEb2skQbXUOOxYJ?usp=sharing
-
 <!---
 YusufShahp/YusufShahp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
